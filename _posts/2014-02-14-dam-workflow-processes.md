@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: DAM workflow processes
-description: Integrate with cloud services like a Pro!
+description: DAM custom workflow processes!
 date: 2014-02-19 15:39:29
 thumbnail: /images/dam-workflow-processes/thumbnail.png
 categories: features
@@ -47,7 +47,7 @@ Path to the workflow: /etc/workflow/models/dam/update_asset.html
 		i)	renditionName: The name of the rendition to modify like “original”
 		ii)	watermark: The repository path of the watermark like “/content/dam/geometrixx/icons/target.png/jcr:content/renditions/original/jcr:content”
 		
-		![image]({{ site.baseurl }}/images/dam-workflow-processes/3.png)		
+	![image]({{ site.baseurl }}/images/dam-workflow-processes/3.png)		
 		
 4. Click OK and make sure to click “Save” of the workflow.
 		
